@@ -6,7 +6,7 @@
  * news topics from specified forums, parsing posts, and rendering the
  * news page.
  *
- * @copyright (c) 2019, Tyrghen
+ * @copyright (c) 2019, Tyrghen, http://tyrghen.armasites.com
  * @license GNU General Public License, version 2 (GPL-2.0)
  */
 
